@@ -1,5 +1,3 @@
-# Cristiane Guimarães
-
 
 ## Olá pessoal, eu sou a Cris!
 Após alguns anos trabalhando em outra área, atualmente tenho me dedicado ao apendizado de Ciência de Dados. 
